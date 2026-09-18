@@ -20,6 +20,10 @@ Grant opportunities tracker for AURABLOX. Each grant is a GitHub issue — work 
 
 Labels: `open-now` · `in-progress` · `watch-list` · `conditional`
 
+## What we're building
+
+[`portfolio.md`](./portfolio.md) — AURABLOX's active project portfolio (NotSquat, Nameplate, Village, Cerberus, services). Written for reuse in grant narratives and business plans.
+
 ## Key resources
 
 - **SAM.gov** (free UEI registration — required for the Waukegan grant): https://sam.gov
