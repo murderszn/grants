@@ -1,6 +1,6 @@
 # Grants
 
-Grant opportunities tracker for AURABLOX. Each grant is a GitHub issue — work it, check off the boxes, close the issue when it's submitted (or won).
+Grant opportunities tracker for AURABLOX — plus Sierhah Price's women-of-color grant run (issues #38–44, applications in her name). Each grant is a GitHub issue — work it, check off the boxes, close the issue when it's submitted (or won).
 
 ## Status board
 
@@ -16,11 +16,11 @@ Grant opportunities tracker for AURABLOX. Each grant is a GitHub issue — work 
 | #14 | [Skip grants — $1,000 weekly Instant Grants + rotating](https://github.com/murderszn/grants/issues/14) | $1,000 | 🟢 Open now (weekly) |
 | #21 | [Business Freedom Grant](https://github.com/murderszn/grants/issues/21) | $1,000 | 🟢 Open now — early deadline Sept 30, 2026 |
 | #22 | [Secretsos Small Business Grant](https://github.com/murderszn/grants/issues/22) | up to $2,500 | 🟢 Open now — closes Sept 30 (verify first) |
-| #23 | [Hustler's MicroGrant (HerSuiteSpot)](https://github.com/murderszn/grants/issues/23) | $1,000 | 🟢 Open now (monthly) |
+| #23 | [Hustler's MicroGrant (HerSuiteSpot)](https://github.com/murderszn/grants/issues/23) | $1,000 | ⚪ Deprioritized Sept 18 — $15 fee, Joshua skipped paid grants |
 | #24 | [Giving Joy Grant](https://github.com/murderszn/grants/issues/24) | up to $500 | 🟢 Open now — closes Sept 30 |
 | #25 | [Shophand Small Business Boost](https://github.com/murderszn/grants/issues/25) | $5,000 | 🟢 Open now — closes Nov 30 |
-| #26 | [Outta Excuses Grant](https://github.com/murderszn/grants/issues/26) | up to $3,000 | 🟢 Open now (quarterly) |
-| #27 | [The Greatness Grant](https://github.com/murderszn/grants/issues/27) | up to $1,000 | 🟢 Open now (quarterly) |
+| #26 | [Outta Excuses Grant](https://github.com/murderszn/grants/issues/26) | up to $3,000 | ⚪ Deprioritized Sept 18 — $15 fee, Joshua skipped paid grants |
+| #27 | [The Greatness Grant](https://github.com/murderszn/grants/issues/27) | up to $1,000 | 🔴 Submitted Sept 18 by Joshua — past Aug 15, 2026 deadline; cycle closed, watch next round |
 | #30 | [NSF America's Seed Fund](https://github.com/murderszn/grants/issues/30) | up to ~$2M | 🟢 Open now (conditional — deep-tech R&D framing) |
 | #6 | [Arch Grants Startup Competition](https://github.com/murderszn/grants/issues/6) | $75,000 + $25k relocation | 🟡 Watch ~Feb 2027 |
 | #7 | [Black Ambition Prize](https://github.com/murderszn/grants/issues/7) | up to $1,000,000 | 🟡 Watch ~Feb 2027 |
@@ -41,8 +41,17 @@ Grant opportunities tracker for AURABLOX. Each grant is a GitHub issue — work 
 | #35 | [TechCrunch Startup Battlefield 200](https://github.com/murderszn/grants/issues/35) | $100,000 equity-free | 🟡 Flag for 2027 |
 | #36 | [Delaware EDGE Grant](https://github.com/murderszn/grants/issues/36) | varies | 🟡 Watch next cycle (Delaware entity angle) |
 | #37 | [Allies for Community Business (A4CB)](https://github.com/murderszn/grants/issues/37) | varies | 🟡 Track future rounds |
+| #38 | [HerRise MicroGrant (WOC run — Sierhah)](https://github.com/murderszn/grants/issues/38) | $1,000/mo | 🟢 Open now — closes Sept 30 |
+| #39 | [Amber Grant (WOC run — Sierhah)](https://github.com/murderszn/grants/issues/39) | $10,000/mo | 🟢 Open now — cycle ends Sept 30 |
+| #40 | [H&R Block Fund Her Future (WOC run — Sierhah)](https://github.com/murderszn/grants/issues/40) | up to $50,000 | 🟢 URGENT — closes Sept 22, 6 PM ET |
+| #41 | [Women Founders Grant (WOC run — Sierhah)](https://github.com/murderszn/grants/issues/41) | $5,000/mo | 🟢 Open now — confirm current cycle |
+| #42 | [IFundWomen Universal Grant Application (WOC run — Sierhah)](https://github.com/murderszn/grants/issues/42) | varies | 🟢 Open now (rolling, no fee) |
+| #43 | [Freed Fellowship Grant (WOC run — Sierhah)](https://github.com/murderszn/grants/issues/43) | $500/mo | 🟢 Open now (monthly) |
+| #44 | [EmpowHer Grants — Boundless Futures (WOC run — Sierhah)](https://github.com/murderszn/grants/issues/44) | ~$25,000 | 🟡 Opens Nov 1, 2026 |
 
 Labels: `open-now` · `in-progress` · `watch-list` · `conditional`
+
+Issues #38–44 are Sierhah Price's WOC run — those applications go in her name, not Joshua's.
 
 ## What we're building
 
@@ -70,6 +79,9 @@ Point-in-time web research (September 18, 2026) behind the grant list — full r
 - [`research/notes/black-founders.md`](./research/notes/black-founders.md) — Black founder programs angle
 - [`research/notes/waukegan-lake-county.md`](./research/notes/waukegan-lake-county.md) — Waukegan / Lake County angle
 
+**Round 3** (women-of-color grants for Sierhah Price's run)
+- [`research/grant-research-woc-2026-09-18.md`](./research/grant-research-woc-2026-09-18.md) — ranked shortlist with deadlines, fees, and sources
+
 **Round 2** (Black-business grants IL/MO + tech hyperscaling + easy micro-grants)
 - [`research/grant-research-round2-2026-09-18.md`](./research/grant-research-round2-2026-09-18.md) — full report with status flags and sources
 - [`research/notes/black-business-grants-2026.md`](./research/notes/black-business-grants-2026.md)
@@ -85,11 +97,11 @@ Point-in-time web research (September 18, 2026) behind the grant list — full r
 
 These were researched Sept 2026 and are either ineligible or dead:
 
-- **Amber Grant** — requires 50%+ women ownership
+- **Amber Grant** — requires 50%+ women ownership (ineligible for Joshua; now tracked in Sierhah's WOC run as #39)
 - **Fearless Fund Strivers** — permanently ended (2024 settlement)
-- **digitalundivided / IFundWomen** — women-only
+- **digitalundivided / IFundWomen** — women-only (ineligible for Joshua; IFundWomen now tracked in Sierhah's WOC run as #42)
 - **SoGal Black Founder Startup Grant** — Black women/nonbinary only
-- **HerRise MicroGrant** — women of color only
+- **HerRise MicroGrant** — women of color only (ineligible for Joshua; now tracked in Sierhah's WOC run as #38)
 - **Money Moves Summit pitch** ($10k pool) — Black women only
 - **Village Capital 2026 US** — women-led only
 - **Backstage Capital** — VC, not a grant
