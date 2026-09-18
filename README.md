@@ -36,6 +36,15 @@ Labels: `open-now` · `in-progress` · `watch-list` · `conditional`
 
 Full walkthrough for issue #1: [`waukegan-microenterprise.md`](./waukegan-microenterprise.md) — eligibility, document checklist, contacts, and step-by-step.
 
+## Research archive
+
+Point-in-time web research (September 18, 2026) behind the grant list — full report plus per-angle source notes:
+
+- [`research/grant-research-report-2026-09-18.md`](./research/grant-research-report-2026-09-18.md) — full report with status flags and sources
+- [`research/notes/st-louis.md`](./research/notes/st-louis.md) — St. Louis / Missouri angle
+- [`research/notes/black-founders.md`](./research/notes/black-founders.md) — Black founder programs angle
+- [`research/notes/waukegan-lake-county.md`](./research/notes/waukegan-lake-county.md) — Waukegan / Lake County angle
+
 ## Verified skip list (don't waste time)
 
 These were researched Sept 2026 and are either ineligible or dead:
